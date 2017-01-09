@@ -21,6 +21,8 @@ public class FirstTestNG {
 		Reporter.log("In tear down");
 		System.out.println("In Afterclass");
 		System.out.println("Hellotest");
+		System.out.println("Hello");
+		
 	}
 
 }

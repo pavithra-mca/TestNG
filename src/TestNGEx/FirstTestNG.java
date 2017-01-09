@@ -20,6 +20,7 @@ public class FirstTestNG {
 	public void teardown(){
 		Reporter.log("In tear down");
 		System.out.println("In Afterclass");
+		System.out.println("Hellotest");
 	}
 
 }
